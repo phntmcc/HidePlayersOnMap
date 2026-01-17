@@ -4,9 +4,9 @@ A Hytale server plugin that hides player icons from the world map.
 
 ## Installation
 
-1. Download `HidePlayersOnMap-x.x.x.jar` from [Releases](../../releases)
-2. Place in your server's `plugins/` folder
-3. Restart the server
+1. Download `HidePlayersOnMap-x.x.x.jar` from [CurseForge](https://www.curseforge.com/hytale/mods/hide-players-on-map) or [Releases](../../releases)
+2. Place in your server's `mods/` folder
+3. Restart the server or load the mod via the plugin command `/plugin load phntm:HidePlayersOnMap`
 
 ## Building from Source
 
