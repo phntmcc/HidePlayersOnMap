@@ -1,0 +1,13 @@
+{
+	"Group": "phntm",
+	"Name": "Hide Players On Map",
+	"Version": "1.0.0",
+	"Description": "Hides player icons from the world map",
+	"Authors": [
+		{
+			"Name": "phntm"
+		}
+	],
+	"ServerVersion": "*",
+	"Main": "dev.phntm.HidePlayersOnMapPlugin"
+}
